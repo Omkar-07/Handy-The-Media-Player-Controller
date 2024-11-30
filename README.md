@@ -17,13 +17,13 @@ We can control VLC media Player Functionally like Pause, Play, Fast-forward, bac
 ## Gesture to control different function 
 mute / unmute            |  pause / play
 :-------------------------:|:-------------------------:
-<img src="vedios/mute.gif" width="400" height="250"> <br> | <img src="vedios/pause.gif" width="400" height="250">
+<img src="videos/mute.gif" width="400" height="250"> <br> | <img src="videos/pause.gif" width="400" height="250">
 <br>
 
 
 Backwards 10 sec |     Forward 10 sec
 :-------------------------:|:-------------------------:
-<img src="vedios/backward-10s.gif" width="400" height="250"> <br> | <img src="vedios/forward-10s.gif" width="400" height="250">
+<img src="videos/backward-10s.gif" width="400" height="250"> <br> | <img src="videos/forward-10s.gif" width="400" height="250">
 <br>
 
 | Volume up / down <br>|
